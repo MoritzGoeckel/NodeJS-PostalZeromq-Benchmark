@@ -1,5 +1,4 @@
-##Performance comparison
-#PostalJS vs. ZeroMQ
+#Performance comparison: PostalJS vs. ZeroMQ
 
 ###PostalJS
 ```Time for 10K msgs: 20.759ms```
